@@ -1,4 +1,4 @@
-.custom {
+.toast {
   position: relative;
   display: flex;
   justify-content: space-around;
@@ -8,14 +8,6 @@
   background: #fff;
   border-width: 1px;
   border-style: solid;
-  border-color: #cccccc #c5c5c5 #bdbdbd;
-  box-shadow: 0 8px 4px rgba(0, 0, 0, 0.11);
-}
-
-.tooltip {
-  background-color: cadetblue;
-}
-
-.connect {
-  margin-left: 50%;
+  border-color: #dddddd #d6d6d6 #cfcfcf;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.11);
 }
